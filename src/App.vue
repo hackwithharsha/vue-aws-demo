@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <h1>Hello Harsha</h1>
+  <h1>Hello Mahesh</h1>
 </template>
 
 <script>
